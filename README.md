@@ -8,15 +8,20 @@
 
 **Duration:** AUGUST to SEPTEMBER 2024
 
+**Design Name** : SEQUENCE DETECTOR 1010 USING MEALY MACHINE(NON OVERLAPPING) BY USING SINGLE PROCEDURAL BLOCK
+
+ **Module Name**  : mealy_1010_seq_det_non_over
+
 **Mentor:** NEELA SANTHOSH KUMAR
 
  **OVERVIEW OF THE PROJECT**
  
  **Project :** FINITE STATE MACHINE (FSM) DESIGN
  
- ![Uploading Screenshot 2024-08-25 153601.png…]()
 
  ![Screenshot 2024-08-25 153541](https://github.com/user-attachments/assets/7f7b1c02-d2ab-4825-a0be-eace2a3cbf57)
+
+![Screenshot 2024-08-25 153601](https://github.com/user-attachments/assets/ddeca5be-b13d-4472-98cb-b06a7a29c368)
 
 
  
