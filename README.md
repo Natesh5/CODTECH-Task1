@@ -1,13 +1,13 @@
-Name:Pallam Natesh
-Company:CODTECH IT SOLUTIONS
-ID:CT6WDS1609
-Domain:VLSI
-Duration: AUGUST to SEPTEMBER 2024
-Mentor: NEELA SANTHOSH KUMAR
+**Name:** Pallam Natesh
+**Company:** CODTECH IT SOLUTIONS
+**ID:** CT6WDS1609
+**Domain:** VLSI
+**Duration:** AUGUST to SEPTEMBER 2024
+**Mentor:** NEELA SANTHOSH KUMAR
 
- OVERVIEW OF THE PROJECT
- Project : FINITE STATE MACHINE (FSM) DESIGN
- Objective:
+ **OVERVIEW OF THE PROJECT**
+ **Project :** FINITE STATE MACHINE (FSM) DESIGN
+ **Objective:**
  Design and implement a Finite State Machine (FSM) that can model and control a specific system or process, such as:
 
 - A vending machine
@@ -15,7 +15,7 @@ Mentor: NEELA SANTHOSH KUMAR
 - A digital clock
 - A robotic arm
 
-Key Activities:
+**Key Activities:**
 
 1. Requirements gathering: Define project scope, goals, and deliverables.
 2. System analysis: Study the system or process to be modeled by the FSM.
@@ -30,7 +30,7 @@ Key Activities:
 11. Testing and validation: Develop test cases and report results.
 12. Review and revision: Review the FSM design and implementation, and make revisions as needed.
 
-13. Technologies Used:
+13. **Technologies Used:**
 
 1. Programming languages:
     - C
