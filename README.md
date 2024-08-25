@@ -1,14 +1,21 @@
 **Name:** Pallam Natesh	
 
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT6WDS1609
+
 **Domain:** VLSI
+
 **Duration:** AUGUST to SEPTEMBER 2024
+
 **Mentor:** NEELA SANTHOSH KUMAR
 
  **OVERVIEW OF THE PROJECT**
+ 
  **Project :** FINITE STATE MACHINE (FSM) DESIGN
+ 
  **Objective:**
+ 
  Design and implement a Finite State Machine (FSM) that can model and control a specific system or process, such as:
 
 - A vending machine
