@@ -13,6 +13,7 @@
  **OVERVIEW OF THE PROJECT**
  
  **Project :** FINITE STATE MACHINE (FSM) DESIGN
+ 
  ![Uploading Screenshot 2024-08-25 153601.png…]()
 
  ![Screenshot 2024-08-25 153541](https://github.com/user-attachments/assets/7f7b1c02-d2ab-4825-a0be-eace2a3cbf57)
